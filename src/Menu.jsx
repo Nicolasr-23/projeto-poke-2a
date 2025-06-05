@@ -10,6 +10,16 @@ const Menu =()=>{
                         Home
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="/pokeflex">
+                        PokeFlex
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="/pokegrid">
+                        Pokegrid
+                    </a>
+                </li>
             </ul>
         </div>
     )
